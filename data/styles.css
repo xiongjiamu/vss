@@ -18,6 +18,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -66,7 +69,7 @@
 }
 .shape {
 }
-.checkbox {
+.checkbox1 {
   text-align:left;
 }
 .radio_button1 {
